@@ -1,0 +1,17 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<!-- Luis Santos AKA DJOKER -->
+<MD3Animation name="sarge torso">
+<Frame name="DEATH1"  start="0" end="29" fps="20"/>
+<Frame name="DEAD1"  start="29" end="29" fps="20"/>
+<Frame name="DEATH2"  start="30" end="59" fps="20"/>
+<Frame name="DEAD2"  start="59" end="59" fps="20"/>
+<Frame name="DEATH3"  start="60" end="89" fps="20"/>
+<Frame name="DEAD3"  start="89" end="89" fps="20"/>
+<Frame name="GESTURE"  start="90" end="129" fps="18"/>
+<Frame name="ATTACK"  start="130" end="135" fps="15"/>
+<Frame name="ATTACK2"  start="136" end="141" fps="15"/>
+<Frame name="DROP"  start="142" end="146" fps="20"/>
+<Frame name="RAISE"  start="147" end="150" fps="20"/>
+<Frame name="STAND"  start="151" end="151" fps="15"/>
+<Frame name="STAND2"  start="152" end="152" fps="15"/>
+</MD3Animation>

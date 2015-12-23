@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="Fire.png"	x="238"	y="0"	width="87"	height="91" frameX="-0" frameY="-0" frameWidth="87" frameHeight="91"/>
+	<SubTexture name="Flare0.png"	x="256"	y="411"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="Flare1.png"	x="256"	y="347"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="Flare2.png"	x="256"	y="283"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="Flare3.png"	x="256"	y="219"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="Flare4.png"	x="238"	y="155"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="Flash1_1.png"	x="285"	y="475"	width="28"	height="28" frameX="-2" frameY="-0" frameWidth="32" frameHeight="32"/>
+	<SubTexture name="Flash1_2.png"	x="302"	y="91"	width="27"	height="26" frameX="-3" frameY="-0" frameWidth="32" frameHeight="32"/>
+	<SubTexture name="Source.png"	x="0"	y="364"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="flare_sun.png"	x="128"	y="236"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="impactflash.png"	x="238"	y="91"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="light.jpg"	x="128"	y="364"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="muzzleflash.png"	x="0"	y="0"	width="238"	height="236" frameX="-6" frameY="-10" frameWidth="256" frameHeight="256"/>
+	<SubTexture name="spark.png"	x="0"	y="236"	width="128"	height="128" frameX="-0" frameY="-0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="stars.png"	x="256"	y="475"	width="29"	height="29" frameX="-1" frameY="-1" frameWidth="32" frameHeight="32"/>
+	<SubTexture name="bulletdecal.png"	x="447"	y="0"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	</TextureAtlas>

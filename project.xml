@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<!-- NMML reference: https://gist.github.com/1763850 -->
+	
+	<!-- metadata, make sure 'package' is at least 3 segments (ie. com.mycompany.myproject) -->
+	<meta title="Keys n/m to change demos. " package="com.djokersoft.landscape" version="1.0.0" company="Luis Santos AKA DJOKER" />
+	
+	<!-- output -->
+	<app main="Main" file="opn3d" path="bin" />
+	
+	<window background="#000000" fps="1000" />
+
+	<window orientation="landscape" vsync="false" antialiasing="4" if="cpp" />
+	
+	<window require-shaders="true" hardware="true" depth-buffer="true" stencil-buffer="false" antialiasing="4" />
+	
+	<!-- classpath, haxe libs -->
+	<source path="src" />
+	<haxelib name="lime" />
+	
+
+	
+	<!-- assets -->
+	<icon path="assets/lime.svg" />
+	<assets path="assets/data/" rename="data" />
+	
+	<haxeflag name="-dce full" /> 
+	
+	<android permission="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<android permission="com.sonymobile.permission.SYSTEM_UI_VISIBILITY_EXTENSIONS" />
+
+	
+</project>
